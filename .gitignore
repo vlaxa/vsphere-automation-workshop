@@ -1,0 +1,19 @@
+# Distribution / packaging
+venv/
+
+# vim
+*.sw?
+
+# mac
+.DS_store
+
+# pyCharm 
+.idea
+
+# python
+__pycache__/
+*.py[cod]
+
+# Dirs
+images/
+pptx/
